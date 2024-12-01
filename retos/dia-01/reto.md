@@ -12,7 +12,6 @@ Tu tarea es escribir una función que reciba una lista de números enteros (que 
 y devuelva una nueva lista sin duplicados, ordenada en orden ascendente.
 ```
 
-### Ejemplo:
 ``` javascript
 const gifts1 = [3, 1, 2, 3, 4, 2, 5]
 const preparedGifts1 = prepareGifts(gifts1)
