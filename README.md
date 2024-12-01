@@ -38,7 +38,7 @@ El repositorio está organizado de la siguiente manera:
 ---
 ## 💌 Agradecimientos
 
-Gracias a [Midudev](https://midu.dev) por crear AdventJS y fomentar el aprendizaje de una manera tan divertida y creativa. ¡Felices retos y felices fiestas! 🎅
+Gracias a [Midudev](https://github.com/midudev) por crear AdventJS y fomentar el aprendizaje de una manera tan divertida y creativa. ¡Felices retos y felices fiestas! 🎅
 
 ---
 ## ⭐ Apóyame
