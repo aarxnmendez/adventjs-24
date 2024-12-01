@@ -1,4 +1,4 @@
-# Reto \#1: ¡Primer regalo repetido! 🎁
+# Reto \#1: 🎁 ¡Primer regalo repetido!
 > #### Dificultad: Fácil
 
 ### Instrucciones:
